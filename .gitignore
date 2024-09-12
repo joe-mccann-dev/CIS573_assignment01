@@ -1,3 +1,4 @@
 output.txt
 new_words.txt
-.tar
+*.tar
+*.zip
